@@ -4,7 +4,7 @@
         <description><![CDATA[Una vista personal de Grecia]]></description>
         <link>https://thegrid.ai/travel-and-run/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 19:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 19:49:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-and-run/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Thessaloniki]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8296c148-7061-4225-9369-b58f1e33aa9d.jpg</link>
             <guid isPermaLink="false">6372346a-b150-4ef5-970b-e22c1cd4d911</guid>
             <pubDate>Sun, 10 Jul 2016 16:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Science Fiction to Reality: The Evolution of Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>From Science Fiction to Reality: The Evolution of Artificial Intelligence</h1><p>What was once just a figment of the imagination of some our most famous science fiction writers, artificial intelligence (AI) is taking root in our everyday lives. We're still a few years away from having robots at our beck and call, but AI has already had a profound impact in more subtle ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/357196ae30863a53e7710f55ebbdd64acab6cdce.jpg"></article>]]></description>
-            <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
-            <guid isPermaLink="false">6993c58f-e754-4c84-b5e4-8945f17466b1</guid>
-            <pubDate>Sun, 10 Jul 2016 11:52:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
