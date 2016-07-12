@@ -4,14 +4,14 @@ description: >-
   en el año 2000. Una opinión 100% subjetiva, que intentará ser descriptiva en
   la medida de lo posible, para anclar las sensaciones e impactos personales en
   cierta realidad consistente.
-dateModified: '2016-07-12T20:10:53.440Z'
-datePublished: '2016-07-12T20:11:25.757Z'
+dateModified: '2016-07-12T20:14:44.431Z'
+datePublished: '2016-07-12T20:14:45.408Z'
 title: Dos ojos como otros cualquiera
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f931c805-9e92-46a1-8a1f-b7c8b9e3c168.jpg
-starred: false
 sourcePath: _posts/2016-07-12-dos-ojos-como-otros-cualquiera.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
